@@ -1,0 +1,24 @@
+{
+  "name": "cypress-bdd-framework",
+  "version": "1.0.0",
+  "description": "This is a framework for UI and API Automation using cypress and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "Cucumber",
+    "BDD",
+    "UI",
+    "Automation",
+    "API",
+    "Automation"
+  ],
+  "author": "Pradeep Sreenivsan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
